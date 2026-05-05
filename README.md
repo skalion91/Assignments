@@ -1,3 +1,3 @@
 # Assignments
-# IITM-GenAI - Advance Certificate Programme in Machine Learning, Gen AI & LLMs for Business Application 02
+## IITM-GenAI - Advance Certificate Programme in Machine Learning, Gen AI & LLMs for Business Application 02
 
